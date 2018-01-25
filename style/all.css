@@ -1,0 +1,16 @@
+div#output{
+	width: 200px;
+	padding:20px;
+	background:lightblue;
+	height:502px;
+	float:left;
+	margin:10px;
+	margin-left:25%;
+	border-radius:20px;
+	font-family:monospace;
+	font-size:25px;
+	color:gray;
+}
+img{
+	opacity:0.4;
+}
